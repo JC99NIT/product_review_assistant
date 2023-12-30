@@ -1,0 +1,11 @@
+version: '3.8'
+services:
+  product_review_comparison:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    ports: 
+      - 8080:8080
+      - 8501:8501
+    stdin_open: true
+    tty: true

@@ -1,6 +1,12 @@
 # 🌟ReviewVista
 
-This is an innovative application designed to assist businesses in understanding and comparing product reviews effectively. By integrating the Pathway API and OpenAI, the application extracts valuable information from customer reviews and provides businesses with insights into the strengths and weaknesses of their products.
+## Description
+
+Dive into the realm of consumer insights with ReviewVista — an application designed to empower businesses in navigating the vast landscape of product reviews. With ReviewVista, unlock a treasure trove of information extracted from customer feedback, offering businesses unparalleled clarity into the strengths and areas of improvement for their products. By integrating the Pathway API and OpenAI, the application extracts valuable information from customer reviews and provides businesses with insights into the strengths and weaknesses of their products.
+
+## Example Output
+
+![Screenshot 2023-12-30 151236](https://github.com/JC99NIT/product_review_assistant/assets/63485775/5d1faaf4-f73b-453b-8a9e-9e2593eed856)
 
 ## Getting Started
 
@@ -18,10 +24,6 @@ Install dependencies
 ## Run Streamlit UI
 
 Navigate to `examples/ui` and run Streamlit app using `streamlit run app.py` command
-
-## Sample Output
-
-![Screenshot 2023-12-30 151236](https://github.com/JC99NIT/product_review_assistant/assets/63485775/5d1faaf4-f73b-453b-8a9e-9e2593eed856)
 
 ## Acknowledgment
 

@@ -21,4 +21,4 @@ Navigate to `examples/ui` and run Streamlit app using `streamlit run app.py` com
 
 ## Acknowledgment
 
-Special thanks to Bobur Umurzokov for his invaluable contributions and the inspirational GitHub repository chatgpt-api-python-sales. This project is built on top of his excellent work, with certain modifications to suit our unique needs.
+Special thanks to Bobur Umurzokov for his invaluable contributions and the inspirational GitHub repository [https://github.com/Boburmirzo/chatgpt-api-python-sales.git](url). This project is built on top of his excellent work, with certain modifications to suit our unique needs.

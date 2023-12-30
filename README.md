@@ -19,6 +19,10 @@ Install dependencies
 
 Navigate to `examples/ui` and run Streamlit app using `streamlit run app.py` command
 
+## Sample Output
+
+![Screenshot 2023-12-30 151236](https://github.com/JC99NIT/product_review_assistant/assets/63485775/5d1faaf4-f73b-453b-8a9e-9e2593eed856)
+
 ## Acknowledgment
 
 Special thanks to Bobur Umurzokov for his invaluable contributions and the inspirational GitHub repository [https://github.com/Boburmirzo/chatgpt-api-python-sales.git](url). This project is built on top of his excellent work, with certain modifications to suit our unique needs.

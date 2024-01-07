@@ -25,9 +25,7 @@ Install dependencies
 
 Navigate to `examples/ui` and run Streamlit app using `streamlit run app.py` command
 
-## Acknowledgment
-
-Demo Video
+## Demo Video
 
 https://drive.google.com/file/d/19s3y5Yjo0SeQLiSsyQXnZ6NZTcCgivXZ/view?usp=sharing
 
